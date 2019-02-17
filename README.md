@@ -30,6 +30,7 @@ You can change the images <strong>without changing their size (image dimensions)
 <b>For Adsense topic ..</b>
 You will notice the presence of only <code>2</code> ad units in the <code>config.php</code> file .. </br>
 While <code>4</code> units will appear in the front of the site, ( <i>because each ad unit repeated twice</i> ).
+
 <img width="500px" src="http://mawlid.orgfree.com/git/ad_unit.png" />
 
 <h4>Small ad units :</h4>
@@ -38,26 +39,21 @@ You can change the small ad unit from here :
 $small_ads_id = "ca-pub-XXXXXXXXXXXXXXXX";
 $small_ads_slot = "XXXXXXXXXX";
 </pre>
-<i>If the ad unit number is left blank, the two small ads will not fade on the site</i>
+
+<b>If the ad unit number is left blank, the 2 small ads will not fade on the website</b>
 
 <h4>Large ad units :</h4>
+
 You can change the large ad unit from here :
+
 <pre>
 $big_ads_id = "ca-pub-XXXXXXXXXXXXXXXX";
 $big_ads_slot = "XXXXXXXXXX";
 </pre>
-<i>If the ad unit number is left blank, the two large ads will not be defeated</i>
+
+<b>If the ad unit number is left blank, the 2 large ads will not fade on the website</b>
 
 <pre>
-<b>
-I advise you to start with one ad unit at the beginning in order to protect your advertising account.
-You can choose the small ad unit and after the first batch you can run the large units.
-</b>
+<b>I advise you to start with one ad unit at the beginning in order to protect your advertising account.</b>
+<b>You can choose the small ad unit and after the first batch you can run the large units.</b>
 </pre>
-
-
-<h2>WhatsApp Sharing Template</h2>
-<img width="500px" src="http://mawlid.orgfree.com/git/whatsapp.png" />
-
-<h2>FaceBook Sharing Template</h2>
-<img width="500px" src="http://mawlid.orgfree.com/git/facebook.png" />
