@@ -13,9 +13,7 @@ So if you want to earn from festival sessions then you can use <strong>Wishing H
 
 You can modify the script and change everything you want by modifying it in <code>config.php</code>
 
-You will find some explanations in the comments in Arabic to help you understand the program variables easier..
-
-You can this use script on all national and religious occasions .. :blush:
+You will find some explanations in Arabic to help you understand the script variables easier.. :blush:
 
 You will find the attached pictures folder .. <code>assets</code>
 
