@@ -26,54 +26,52 @@ You can change the images <strong>without changing their size (image dimensions)
 <img width="500px" src="http://mawlid.orgfree.com/git/whatsapp.png" />
 </br></br></br>
 
-<h1>FaceBook Sharing Template</h1>
+<h2>FaceBook Sharing Template</h2>
 <code>$sharing_name = $name."تهنئة شخصية بحلول المولد النبوي الشريف"; </code></br>
 <code>$sharing_description = "إضغط هنا، أكتب إسمك و إصنع بطاقتك الخاصة مجانا";</code></br></br>
 <img width="500px" src="http://mawlid.orgfree.com/git/facebook.png" />
 </br></br></br>
 
-<h1>Google Adsense Validation ID </h1>
+<h2>Google Adsense Validation ID </h2>
 <code>$ads_validation = "ca-pub-XXXXXXXXXXXXXXXX";</code></br></br>
 <img width="500px" src="http://mawlid.orgfree.com/git/ads_validation.png" />
 </br></br></br>
 
 <h2>Google Adsense Ad Unit</h2>
 
-<h3>For Adsense topic ..</h3>
+<b>For Adsense topic ..</b>
 You will notice the presence of only <code>2</code> ad units in the <code>config.php</code> file .. </br>
-While <code>4</code> units will appear in the front of the site, ( <i>because each ad unit repeated twice</i> ).</br>
-
-
-<h4>small ad units:</h4>
-You can change the small ad unit from here :</br>
-
-<code>$small_ads_id = "ca-pub-XXXXXXXXXXXXXXXX";</code></br>
-<code>$small_ads_slot = "XXXXXXXXXX";</code></br>
-
-If the ad unit number is left blank, the two small ads will not fade on the site</br>
-
-large ad units:</br>
-You can change the large ad unit from here :</br>
-
-<pre>
-$big_ads_id = "ca-pub-XXXXXXXXXXXXXXXX";</br>
-
-$big_ads_slot = "XXXXXXXXXX";</br>
-</pre>
-</br>
-
-<quote>If the ad unit number is left blank, the two large ads will not be defeated</quote>
-
+While <code>4</code> units will appear in the front of the site, ( <i>because each ad unit repeated twice</i> ).</br></br>
 
 <img width="500px" src="http://mawlid.orgfree.com/git/ad_unit.png" />
+</br></br>
+
+<h4>Small ad units :</h4>
+You can change the small ad unit from here :</br>
+<pre>
+$small_ads_id = "ca-pub-XXXXXXXXXXXXXXXX";
+$small_ads_slot = "XXXXXXXXXX";
+</pre>
+</br>
+<i>If the ad unit number is left blank, the two small ads will not fade on the site</i>
+
+h4>Large ad units :</h4>
+You can change the large ad unit from here :</br>
+<pre>
+$big_ads_id = "ca-pub-XXXXXXXXXXXXXXXX";
+$big_ads_slot = "XXXXXXXXXX";
+</pre>
+</br>
+<i>If the ad unit number is left blank, the two large ads will not be defeated</i>
+
 </br></br></br>
 
-<h1>Google Analytics Verification ID</h1>
-<code>$tracking = "UA-XXXXXXXXX-1";</code></br></br>
+<h2>Google Analytics Verification ID</h2>
+<pre>$tracking = "UA-XXXXXXXXX-1";</pre></br>
 <img width="500px" src="http://mawlid.orgfree.com/git/ana_validation.png" />
 </br></br></br>
 
 
 <h1>FaceBook App Verification ID</h1>
-<code>$fb_app_id = "XXXXXXXXXXXXXXXX";</code></br></br>
+<pre>$fb_app_id = "XXXXXXXXXXXXXXXX";</pre></br>
 <img width="500px" src="http://mawlid.orgfree.com/git/fb_validation.png" />
