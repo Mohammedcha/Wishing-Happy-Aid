@@ -28,49 +28,28 @@ While <code>4</code> units will appear in the front of the site, ( <i>because ea
 <img width="500px" src="http://mawlid.orgfree.com/git/ad_unit.png" />
 
 <h4>Small ad units :</h4>
-You can change the small ad unit from here :</br>
+You can change the small ad unit from here :
 <pre>
 $small_ads_id = "ca-pub-XXXXXXXXXXXXXXXX";
 $small_ads_slot = "XXXXXXXXXX";
 </pre>
-</br>
 <i>If the ad unit number is left blank, the two small ads will not fade on the site</i>
 
 h4>Large ad units :</h4>
-You can change the large ad unit from here :</br>
+You can change the large ad unit from here :
 <pre>
 $big_ads_id = "ca-pub-XXXXXXXXXXXXXXXX";
 $big_ads_slot = "XXXXXXXXXX";
 </pre>
-</br>
 <i>If the ad unit number is left blank, the two large ads will not be defeated</i>
-
-</br></br></br>
-
-<h2>Google Analytics Verification ID</h2>
-<pre>$tracking = "UA-XXXXXXXXX-1";</pre></br>
-<img width="500px" src="http://mawlid.orgfree.com/git/ana_validation.png" />
-</br></br></br>
-
-
-<h1>FaceBook App Verification ID</h1>
-<pre>$fb_app_id = "XXXXXXXXXXXXXXXX";</pre></br>
-<img width="500px" src="http://mawlid.orgfree.com/git/fb_validation.png" />
-
-
-
-
-
-
 
 <h2>WhatsApp Sharing Template</h2>
 <pre>
-<code>$sharing_message = $name." يهنئك بحلول المولد النبوي الشريف "; </code></br>
-<code>$sharing_invite = "إضغط على الرابط اسفله لتشاهد التهنئة كاملة";</code></br>
-<code>$sharing_advice = "يمكنك كتابة بطاقتك الخاصة لتهديها لاهلك و اصدقاءك عبر الرابط اسفله";</code>
+$sharing_message = $name." يهنئك بحلول المولد النبوي الشريف "; 
+$sharing_invite = "إضغط على الرابط اسفله لتشاهد التهنئة كاملة";
+$sharing_advice = "يمكنك كتابة بطاقتك الخاصة لتهديها لاهلك و اصدقاءك عبر الرابط اسفله";
 </pre>
 <img width="500px" src="http://mawlid.orgfree.com/git/whatsapp.png" />
-</br></br></br>
 
 <h2>FaceBook Sharing Template</h2>
 <pre>
