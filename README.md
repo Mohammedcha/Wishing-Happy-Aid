@@ -1,140 +1,90 @@
 # Wishing-Happy-Aid
-The wishing script is a small website which is coding in HTML, PHP, JS and CSS. During coding also we used PNG, Some photos, some effects to make it attractive. So peoples like this and when peoples start to share with friends and next to their friends with their friends and script will be viral.
+The wishing script is a small website which is coding in HTML, PHP, JS and CSS. During coding also we used PNG, Some photos, some effects to make it attractive. So peoples like this and when peoples start to share with friends and next to their friends with their friends, our script will be viral.
 
 
 
-
-/** عنوان الموقع **/
-$page_name = "تهنئة بمناسبة المولد النبوي"; 
+WhatsApp Sharing Template
 
 
-
-
-
-/***************************************************************
-****	اعدادات المشاركة في واتساب		**********************
-****************************************************************/
-
-/***    رابط الموقع    ***/
-$sharing_url = "http://mawlid.orgfree.com/";
-
-/***    رسالة التهنئة     ***/
+<code>
 $sharing_message = $name." يهنئك بحلول المولد النبوي الشريف "; 
+</code>
 
-/***    دعوة لزيارة التهنئة     ***/
+<code>
 $sharing_invite = "إضغط على الرابط اسفله لتشاهد التهنئة كاملة";
+</code>
 
-/***    كتابة بطاقة خاصة     ***/
+<code>
 $sharing_advice = "يمكنك كتابة بطاقتك الخاصة لتهديها لاهلك و اصدقاءك عبر الرابط اسفله";
+</code>
 
 
 
 
 
+<h1>FaceBook Sharing Template	</h1>
 
-/***************************************************************
-****	اعدادات مشاركة المنشور في فايسبوك		*************
-****************************************************************/
-
-/***    رسالة التهنئة     ***/
+<code>
 $sharing_name = $name."تهنئة شخصية بحلول المولد النبوي الشريف"; 
+</code>
 
-/***    دعوة لزيارة الصفحة     ***/
+<code>
 $sharing_description = "إضغط هنا، أكتب إسمك و شاهد ما سيحدث";
+</code>
 
 
 
 
-
-
-/***************************************************************
-****	محتوى الصفحة		***********************************
-****************************************************************/
-
-/***   العنوان الرئيسي اعلى الصفحة    ***/
-$aid_from = "تهنئة من طرف";
-
-/***   العنوان الثانوي اعلى الصفحة    ***/
-$aid_to = "بمناسبة عيد المولد النبوي الشريف";
-
-/***   محتوى التهنئة    ***/
-$aid_text = "يا عالي المقام اهنئك قبل الزحام بمولد خير الأنام .. عسى ربي يحفظك طول الزمان، ويرزقك التقوى والإيمان وقصور هدية من الرحمن في أعلى الجنان وكل عام وأنت بخير يا أعز إنسان";
-
-
-
-
-
-
-/***************************************************************
-****	اعدادات  العد العكسي - اقتراب العيد       ************
-****************************************************************/
-
-/***   لاتغير شكل الوقت .. و الشهر بالانجليزية 3 احرف الاولى فقط    ***/
+<code>
 $aid_timer = "Nov 9, 2019 00:00:00";
+</code>
 
-/***   رسالة العد العكسي   ***/
+<code>
 $aid_time = "تبقى على المولد النبوي";
+</code>
 
-/***   رسالة حلول العيد    ***/
+<code>
 $aid_said = "لقد حل عيد المولد النبوي الشريف";
+</code>
 
-/***   عنوان في نهاية الصفحة    ***/
+<code>
 $aid_said_footer = "عيد سعيد";
+</code>
 
-
-
-
-
-
-/***************************************************************
-****	اعدادات انشاء بطاقة جديدة		**********************
-****************************************************************/
-
-/***   شرح او توضيح طريقة كتابة بطاقة جديدة    ***/
+<code>
 $aid_creat = "يمكنك إنشاء رسالة تهنئة خاصة بك .. عن طريق ادخال اسمك في الخانة اسفلة ونقر زر إنشاء";
+</code>
 
 
 
-
-
-/***************************************************************
-****	اعدادات غوغل .. ادسنس + اناليتكس		**************
-****************************************************************/
-
-/***   google adsense validation ID    ***/
+<code>
 $ads_validation = "ca-pub-XXXXXXXXXXXXXXXX";
-
-
-/***   data ad client small   ***/
+</code>
+    
+<code>
 $small_ads_id = "ca-pub-XXXXXXXXXXXXXXXX";
-                
-/***   data ad solt small   ***/
+</code>   
+    
+<code>
 $small_ads_slot = "XXXXXXXXXX";
-          
+</code>   
 
 
 
-/***   data ad client big    ***/
+<code>
 $big_ads_id = "ca-pub-XXXXXXXXXXXXXXXX";
+</code>
 
-/***   data ad solt big    ***/
+<code>
 $big_ads_slot = "XXXXXXXXXX";
+</code>
 
 
 
-
-/***   analytics ID    ***/
+<code>
 $tracking = "UA-XXXXXXXXX-1";
+</code>
 
-
-
-
-
-
-/***************************************************************
-****	 الرقم الخاص بتطبيق فايسبوك     		**************
-****************************************************************/
-
-/***   الرقم الخاص بتطبيق فايسبوك     ***/
+<code>
 $fb_app_id = "XXXXXXXXXXXXXXXX";
-
+</code>
