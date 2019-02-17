@@ -5,9 +5,9 @@ So when people start sharing the page with friends and next to their friends wit
 
 So if you want to earn from festival sessions then you can use <strong>Wishing Happy Aid</strong> script.
 
-<b><a href="mawlid.orgfree.com" >DEMO HERE</a></b>
+<b><a href="http://mawlid.orgfree.com" >DEMO HERE</a></b>
 
-<img src="http://mawlid.orgfree.com/git/Wishing-Happy-Aid.png" />
+<img width="500px" src="http://mawlid.orgfree.com/git/Wishing-Happy-Aid.png" />
 
 <h1>Settings</h1>
 
