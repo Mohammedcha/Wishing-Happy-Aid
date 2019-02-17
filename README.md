@@ -9,6 +9,7 @@ So when people start sharing the page with friends and next to their friends wit
 <code>$sharing_message = $name." يهنئك بحلول المولد النبوي الشريف "; </code></br>
 <code>$sharing_invite = "إضغط على الرابط اسفله لتشاهد التهنئة كاملة";</code></br>
 <code>$sharing_advice = "يمكنك كتابة بطاقتك الخاصة لتهديها لاهلك و اصدقاءك عبر الرابط اسفله";</code></br></br>
+<img width="500px" src="http://mawlid.orgfree.com/git/whatsapp.jpg" />
 </br></br></br>
 
 <h1>FaceBook Sharing Template</h1>
