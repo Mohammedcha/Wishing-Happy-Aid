@@ -9,17 +9,17 @@ So when people start sharing the page with friends and next to their friends wit
 <code>$sharing_message = $name." يهنئك بحلول المولد النبوي الشريف "; </code></br>
 <code>$sharing_invite = "إضغط على الرابط اسفله لتشاهد التهنئة كاملة";</code></br>
 <code>$sharing_advice = "يمكنك كتابة بطاقتك الخاصة لتهديها لاهلك و اصدقاءك عبر الرابط اسفله";</code></br></br>
-<img src="http://mawlid.orgfree.com/git/whatsapp.png" />
 </br></br></br>
 
 <h1>FaceBook Sharing Template</h1>
 <code>$sharing_name = $name."تهنئة شخصية بحلول المولد النبوي الشريف"; </code></br>
-<code>$sharing_description = "إضغط هنا، أكتب إسمك و شاهد ما سيحدث";</code>
+<code>$sharing_description = "إضغط هنا، أكتب إسمك و شاهد ما سيحدث";</code></br></br>
+<img width="500px" src="http://mawlid.orgfree.com/git/facebook.jpg" />
 </br></br></br>
 
 <h1>Google Adsense Validation ID </h1>
 <code>$ads_validation = "ca-pub-XXXXXXXXXXXXXXXX";</code></br></br>
-<img src="http://mawlid.orgfree.com/git/ads_validation.png" />
+<img width="500px" src="http://mawlid.orgfree.com/git/ads_validation.png" />
 </br></br></br>
 
 <h1>Google Adsense Ad Unit</h1>
@@ -27,15 +27,15 @@ So when people start sharing the page with friends and next to their friends wit
 <code>$small_ads_slot = "XXXXXXXXXX";</code></br>
 <code>$big_ads_id = "ca-pub-XXXXXXXXXXXXXXXX";</code></br>
 <code>$big_ads_slot = "XXXXXXXXXX";</code></br></br>
-<img src="http://mawlid.orgfree.com/git/ad_unit.png" />
+<img width="500px" src="http://mawlid.orgfree.com/git/ad_unit.png" />
 </br></br></br>
 
 <h1>Google Analytics Verification ID</h1>
 <code>$tracking = "UA-XXXXXXXXX-1";</code></br></br>
-<img src="http://mawlid.orgfree.com/git/ana_validation.png" />
+<img width="500px" src="http://mawlid.orgfree.com/git/ana_validation.png" />
 </br></br></br>
 
 
 <h1>FaceBook App Verification ID</h1>
 <code>$fb_app_id = "XXXXXXXXXXXXXXXX";</code></br></br>
-<img src="http://mawlid.orgfree.com/git/fb_validation.png" />
+<img width="500px" src="http://mawlid.orgfree.com/git/fb_validation.png" />
