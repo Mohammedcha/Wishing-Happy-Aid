@@ -21,10 +21,6 @@ This folder contains all images associated with the script.
 You can change the images <strong>without changing their size (image dimensions)</strong>
 
 
-<h2>Google Adsense Validation ID </h2>
-<pre>$ads_validation = "ca-pub-XXXXXXXXXXXXXXXX";</pre>
-<img width="500px" src="http://mawlid.orgfree.com/git/ads_validation.png" />
-
 <h2>Google Adsense Ad Unit</h2>
 
 <b>For Adsense topic ..</b>
@@ -40,7 +36,7 @@ $small_ads_slot = "XXXXXXXXXX";
 </pre>
 <i>If the ad unit number is left blank, the two small ads will not fade on the site</i>
 
-h4>Large ad units :</h4>
+<h4>Large ad units :</h4>
 You can change the large ad unit from here :
 <pre>
 $big_ads_id = "ca-pub-XXXXXXXXXXXXXXXX";
@@ -48,18 +44,17 @@ $big_ads_slot = "XXXXXXXXXX";
 </pre>
 <i>If the ad unit number is left blank, the two large ads will not be defeated</i>
 
-<h2>WhatsApp Sharing Template</h2>
 <pre>
-$sharing_message = $name." يهنئك بحلول المولد النبوي الشريف "; 
-$sharing_invite = "إضغط على الرابط اسفله لتشاهد التهنئة كاملة";
-$sharing_advice = "يمكنك كتابة بطاقتك الخاصة لتهديها لاهلك و اصدقاءك عبر الرابط اسفله";
+<b>
+I advise you to start with one ad unit at the beginning in order to protect your advertising account from the closure ..
+
+You can choose the small ad unit and after the first batch you can run the two large units.
+</b>
 </pre>
+
+
+<h2>WhatsApp Sharing Template</h2>
 <img width="500px" src="http://mawlid.orgfree.com/git/whatsapp.png" />
 
 <h2>FaceBook Sharing Template</h2>
-<pre>
-$sharing_name = $name."تهنئة شخصية بحلول المولد النبوي الشريف";
-$sharing_description = "إضغط هنا، أكتب إسمك و إصنع بطاقتك الخاصة مجانا";
-</pre>
-</br>
 <img width="500px" src="http://mawlid.orgfree.com/git/facebook.png" />
