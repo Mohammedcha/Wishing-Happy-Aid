@@ -1,10 +1,16 @@
 # Wishing-Happy-Aid
-<strong>Wishing Happy Aid</strong> is a small web application encoded in <code>HTML</code>, <code>PHP</code>, <code>JS</code>, and <code>CSS</code>. We also used some PNG images and some effects to make the page attractive.</br>
-So when people start sharing the page with friends and next to their friends with their friends, the page will spread and become Viral.</br>So if you want to earn from festival sessions then you can use <strong>Wishing Happy Aid</strong> script.</br></br>
-<img src="http://mawlid.orgfree.com/git/Wishing-Happy-Aid.png" />
-</br></br></br>
+<strong>Wishing Happy Aid</strong> is a small web application encoded in <code>HTML</code>, <code>PHP</code>, <code>JS</code>, and <code>CSS</code>. We also used some PNG images and some effects to make the page attractive.
 
-</h1>Settings</h1>
+
+So when people start sharing the page with friends and next to their friends with their friends, the page will spread and become Viral.</br>So if you want to earn from festival sessions then you can use <strong>Wishing Happy Aid</strong> script.
+
+
+<img src="http://mawlid.orgfree.com/git/Wishing-Happy-Aid.png" />
+
+
+
+
+<h1>Settings</h1>
 
 You can modify the script and change everything you want by modifying it in <code>config.php</code>
 You will find some explanations in the comments in Arabic to help you understand the program variables easier..
