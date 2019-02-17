@@ -1,13 +1,9 @@
 # Wishing-Happy-Aid :boom:
 <strong>Wishing Happy Aid</strong> is a small web application encoded in <code>HTML</code>, <code>PHP</code>, <code>JS</code>, and <code>CSS</code>. We also used some PNG images and some effects to make the page attractive.
 
-
 So when people start sharing the page with friends and next to their friends with their friends, the page will spread and become Viral.</br>So if you want to earn from festival sessions then you can use <strong>Wishing Happy Aid</strong> script.
 
-
 <img src="http://mawlid.orgfree.com/git/Wishing-Happy-Aid.png" />
-
-
 
 <h1>Settings</h1>
 
@@ -15,26 +11,21 @@ You can modify the script and change everything you want by modifying it in <cod
 You will find some explanations in the comments in Arabic to help you understand the program variables easier..
 
 You can this use script on all national and religious occasions .. :blush:
+You will find the attached pictures folder .. <code>assets</code>
 
-You will find the attached pictures folder .. <code>assets</code></br>
-This folder contains all images associated with the script.</br>
-You can change the images <strong>without changing their size (image dimensions)</strong></br>
-
-
+This folder contains all images associated with the script.
+You can change the images <strong>without changing their size (image dimensions)</strong>
 
 <h2>Google Adsense Validation ID </h2>
-<code>$ads_validation = "ca-pub-XXXXXXXXXXXXXXXX";</code></br></br>
+<pre>$ads_validation = "ca-pub-XXXXXXXXXXXXXXXX";</pre>
 <img width="500px" src="http://mawlid.orgfree.com/git/ads_validation.png" />
-</br></br></br>
 
 <h2>Google Adsense Ad Unit</h2>
 
 <b>For Adsense topic ..</b>
 You will notice the presence of only <code>2</code> ad units in the <code>config.php</code> file .. </br>
-While <code>4</code> units will appear in the front of the site, ( <i>because each ad unit repeated twice</i> ).</br></br>
-
+While <code>4</code> units will appear in the front of the site, ( <i>because each ad unit repeated twice</i> ).
 <img width="500px" src="http://mawlid.orgfree.com/git/ad_unit.png" />
-</br></br>
 
 <h4>Small ad units :</h4>
 You can change the small ad unit from here :</br>
