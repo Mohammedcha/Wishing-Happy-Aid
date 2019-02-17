@@ -8,13 +8,18 @@ So when people start sharing the page with friends and next to their friends wit
 <h1>Settings</h1>
 
 You can modify the script and change everything you want by modifying it in <code>config.php</code>
+
 You will find some explanations in the comments in Arabic to help you understand the program variables easier..
 
 You can this use script on all national and religious occasions .. :blush:
+
 You will find the attached pictures folder .. <code>assets</code>
 
+
 This folder contains all images associated with the script.
+
 You can change the images <strong>without changing their size (image dimensions)</strong>
+
 
 <h2>Google Adsense Validation ID </h2>
 <pre>$ads_validation = "ca-pub-XXXXXXXXXXXXXXXX";</pre>
