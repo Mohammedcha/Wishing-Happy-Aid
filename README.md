@@ -46,9 +46,8 @@ $big_ads_slot = "XXXXXXXXXX";
 
 <pre>
 <b>
-I advise you to start with one ad unit at the beginning in order to protect your advertising account from the closure ..
-
-You can choose the small ad unit and after the first batch you can run the two large units.
+I advise you to start with one ad unit at the beginning in order to protect your advertising account.
+You can choose the small ad unit and after the first batch you can run the large units.
 </b>
 </pre>
 
