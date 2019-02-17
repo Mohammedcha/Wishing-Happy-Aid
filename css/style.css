@@ -1,0 +1,212 @@
+@import url(http://fonts.googleapis.com/css?family=Concert+One);
+@font-face {
+    font-family: 'Kruti-Dev-010';
+    src:  url('fonts/Kruti-Dev-010.ttf.woff') format('woff'),
+    url('fonts/Kruti-Dev-010.ttf.svg#Kruti-Dev-010') format('svg'),
+    url('fonts/Kruti-Dev-010.ttf.eot'),
+    url('fonts/Kruti-Dev-010.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+	font:600 1.2em 'Tajawal', sans-serif;
+	background-image: url("../assets/bg.png")!important;
+	background-repeat: repeat-x;
+	background-position: center;
+	background-attachment: fixed;
+	color:#623a0e;
+	padding: 1em;
+}
+
+.container {
+	background:#fef8ec;
+	max-width: 400px;
+    margin: auto;
+	padding: 1em;
+}
+
+.subcontainer {
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    padding: 1em;
+	background:#fef8ec;
+    margin-bottom: 0px;
+	border:  5px solid  #e2a428;
+}
+
+figure {
+  animation:wobble 2s ease-in-out infinite;
+  transform-origin:center center;
+  transform-style:preserve-3d;
+}
+
+@keyframes wobble {
+  0%,100%{ transform:rotate3d(1,1,0,20deg); }
+  25%{ transform:rotate3d(-1,1,0,20deg); }
+  50%{ transform:rotate3d(-1,-1,0,20deg); }
+  75%{ transform:rotate3d(1,-1,0,20deg); }
+}
+
+@keyframes glow {
+  0%,100%{ text-shadow:0 0 30px red; }
+  25%{ text-shadow:0 0 30px orange; }
+  50%{ text-shadow:0 0 30px forestgreen; }
+  75%{ text-shadow:0 0 30px cyan; }
+}
+
+h1 {
+  display:block;
+  line-height:1;
+  background:#e2a428;
+  color:#fff;
+  font-size:1.3em;
+  padding:0.5em;
+     	border-radius: 4px;
+}
+
+h2 {
+  display:block;
+  line-height:1;
+  color:#623a0e;
+  font-size:1.6em;
+}
+
+h3 {
+  display:block;
+  line-height:1;
+  color:#d47815;
+  font-size:0.8em;
+}
+
+.aid {
+	background:#623a0e;
+	padding: 10px;
+	border-radius: 4px;
+	font-size:0.8em;
+	margin: 10px 0;
+}
+
+
+.aid .far {
+	color:#f2c739;
+	font-size: 3.5em;
+	padding:10px;
+	background: #522e06;
+	border-radius: 4px;
+}
+
+
+
+.aid_msg {
+	background:#fff;
+	padding: 1em;
+	font-size:1.1em;
+	text-align: center;
+	border-radius: 4px;
+}
+
+.aid_msg i {
+	padding: 1em;
+	font-size:0.8em;
+	display: block;
+	color: #e2a428;
+}
+
+#aidsaid {
+	color:#fff;
+
+}
+
+#aidtime {
+	color:#fff;
+
+}
+
+b {
+	color: #ebb731;
+		font-size:0.7em;
+}
+
+.name_input {
+	background: #fff;
+	padding: 10px;
+}
+
+.name_input .chat {
+	color:#4fce5d;
+	font-size: 3.5em;
+	padding:10px;
+	border-radius: 4px;
+}
+
+.shareb {
+	padding: 10px;
+	margin:10px;
+	   	border-radius: 4px;
+}
+
+.shareb a {
+	text-decoration:none;
+	color: #fff;
+	font-size: 0.8em;
+}
+
+.shareb i{
+	padding:0 0.2em;
+	font-size: 1em;
+	font-weight:normal;
+}
+
+.shareb:hover {
+	opacity: 0.8;
+}
+
+.whatsapp {
+	background: #49af0b;
+}
+
+.facebook {
+	background: #3b5998 ;
+}
+
+
+.name_input p {
+	font-size: 0.8em;
+	color: #666;
+}
+
+.name_input input[type=name] {
+	background-color: #fffce6;
+	color: #333;
+   	border-radius: 4px;
+	border: none;
+	padding: 5px;
+	margin: 10px;
+	height: 50px;
+	width: 80%;
+	text-align: center;
+	font-size: 22px;
+	display: inline-block;
+	font:600 1em 'Tajawal', sans-serif;
+	border: 1px #dfdab9 solid;
+}
+
+.name_input .btn {
+	border-radius: 4px;
+	padding: 5px;
+	height: 50px;
+	width: 80%;
+	color: #fff;
+	background-color: #49af0b;
+	border: 1px #3d9707 solid;
+	cursor: pointer;
+	font:600 0.9em 'Tajawal', sans-serif;
+}
+
+.name_input .btn i {
+	color: #fff;
+	padding:5px;
+}
