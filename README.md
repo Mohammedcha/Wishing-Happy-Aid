@@ -7,7 +7,7 @@ So if you want to earn from festival sessions then you can use <strong>Wishing H
 
 <b><a href="http://mawlid.orgfree.com" >DEMO HERE</a></b>
 
-<img width="500px" src="http://mawlid.orgfree.com/git/Wishing-Happy-Aid.png" />
+<img src="http://mawlid.orgfree.com/git/Wishing-Happy-Aid.png" />
 
 <h1>Settings</h1>
 
