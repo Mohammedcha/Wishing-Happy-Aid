@@ -32,10 +32,12 @@ You can choose the small ad unit and after the first batch you can run the two l
 
 
 <h2>WhatsApp Sharing Template</h2>
-
+<pre>
 <code>$sharing_message = $name." يهنئك بحلول المولد النبوي الشريف "; </code></br>
 <code>$sharing_invite = "إضغط على الرابط اسفله لتشاهد التهنئة كاملة";</code></br>
-<code>$sharing_advice = "يمكنك كتابة بطاقتك الخاصة لتهديها لاهلك و اصدقاءك عبر الرابط اسفله";</code></br></br>
+<code>$sharing_advice = "يمكنك كتابة بطاقتك الخاصة لتهديها لاهلك و اصدقاءك عبر الرابط اسفله";</code></br>
+</pre>
+</br>
 <img width="500px" src="http://mawlid.orgfree.com/git/whatsapp.png" />
 </br></br></br>
 
