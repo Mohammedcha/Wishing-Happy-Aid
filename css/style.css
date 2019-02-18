@@ -12,8 +12,7 @@
 body {
 	font:600 1.2em 'Tajawal', sans-serif;
 	background-image: url("../assets/bg.png")!important;
-	background-repeat: repeat-x;
-	background-position: center;
+	background-repeat: repeat;
 	background-attachment: fixed;
 	color:#623a0e;
 	padding: 1em;
