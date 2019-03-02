@@ -29,7 +29,6 @@ You can change the images <strong>without changing their size (image dimensions)
 You will notice the presence of only <code>2</code> ad units in the <code>config.php</code> file .. </br>
 While <code>4</code> units will appear in the front of the site, ( <i>because each ad unit repeated twice</i> ).
 
-<img width="500px" src="http://mawlid.orgfree.com/git/ad_unit.png" />
 
 <h4>Small ad units :</h4>
 You can change the small ad unit from here :
