@@ -3,7 +3,7 @@
 
 So when people start sharing the page with friends and next to their friends with their friends, the page will spread and become Viral.
 
-So if you want to earn from festival sessions then you can use <strong>Wishing Happy Aid</strong> script.
+If you want to earn from festival sessions then you can use <strong>Wishing Happy Aid</strong> script.
 
 <b><a href="http://mawlid.orgfree.com" >DEMO HERE</a></b>
 
